@@ -50,6 +50,9 @@ npm install --save three
 
 # vite
 npm install --save-dev vite
+
+# 在 package.json 文件 "scipts" 中添加脚本，如 demo
+npm run demo
 ```
 
 # 参考
